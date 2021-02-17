@@ -19,6 +19,8 @@ And further.
 ```
 **Professional Experience**
 
+- none
+
 **Education**
 
 - Specialist degree 
