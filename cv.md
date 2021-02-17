@@ -25,10 +25,12 @@ And further.
 
 - Specialist degree 
 in Engineer fabric design
+
 Kherson National Technical
 University, *Ukraine 2000 - 2005*
 
 - Software testing courses 
+
 *by QATestLab 09-10/2020*
 
 **Languages:**
