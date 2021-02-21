@@ -1,0 +1,35 @@
+body{
+    padding: 20px;
+    margin: auto;
+
+}
+
+.outer{
+    width: auto;
+    border: 4px solid gray;
+    margin: auto;
+    padding: 20px;
+}
+
+h1{
+    font-size: 20px;
+    font-style: normal;
+    color: darkslategrey;
+}
+
+a {
+    color: lightslategray;
+}
+
+p.test {
+    padding: 10px;
+}
+
+p.test2 {
+    padding: 20px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
