@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     padding: 20px;
     margin: auto;
@@ -50,40 +49,3 @@ img {
 footer{
     padding: 20px;
 }
-=======
-body{
-    padding: 20px;
-    margin: auto;
-
-}
-
-.outer{
-    width: auto;
-    border: 4px solid gray;
-    margin: auto;
-    padding: 20px;
-}
-
-h1{
-    font-size: 20px;
-    font-style: normal;
-    color: darkslategrey;
-}
-
-a {
-    color: lightslategray;
-}
-
-p.test {
-    padding: 10px;
-}
-
-p.test2 {
-    padding: 20px;
-}
-
-img {
-    height: 160px;
-    width: 160px;
-}
->>>>>>> 3bcae078b7cf83d6d7148f157216595f305f9b57
